@@ -1,2 +1,2 @@
 # Azure_Application
-Trying to hosting application on Azure Cloud 
+Trying to host application on Azure Cloud 
